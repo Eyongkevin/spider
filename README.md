@@ -1,3 +1,4 @@
+
 - Open a terminal
 - CD to your home directory 
 - Create a folder called learn_git_again.
@@ -38,6 +39,3 @@
 - Stage your change, commit and push.
 - Check github to be sure the changes were saved.
 
-
-
-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
