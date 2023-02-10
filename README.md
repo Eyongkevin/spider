@@ -1,4 +1,4 @@
-
+# Exercise
 - Open a terminal
 - CD to your home directory 
 - Create a folder called learn_git_again.
