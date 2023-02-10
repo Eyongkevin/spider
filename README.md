@@ -36,8 +36,11 @@
 - From the internet, download an image and place it inside the 'doc' folder
 - Now check the status. Does git track the 'doc' folder? Can you guess why it tracks it now?
 - Stage your change, commit and push.
-- Check github to be sure the changes were saved.
+- Check github to be sure the changes were saved.  --modificat--
 
 
 
-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
+
+
+## Part 3
+-Sweta
