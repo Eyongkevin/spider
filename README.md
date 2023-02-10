@@ -21,7 +21,7 @@
 - Add the readme.dm to your staging area
 - commit with the message "good documentation"
 - check your logs. Is the author name different now?
-- added this lane
+- added this lane from my Terminal
 
 ## Part 2
 - Go to your github and create a new project with the name "learn_git_again"
