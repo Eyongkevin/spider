@@ -37,3 +37,9 @@
 - Now check the status. Does git track the 'doc' folder? Can you guess why it tracks it now?
 - Stage your change, commit and push.
 - Check github to be sure the changes were saved.
+
+
+
+
+
+EOF
