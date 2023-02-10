@@ -38,6 +38,4 @@
 - Stage your change, commit and push.
 - Check github to be sure the changes were saved.
 
-
-
-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
+Change here
